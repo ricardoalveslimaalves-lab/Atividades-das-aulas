@@ -4,7 +4,7 @@ Repositório destinado à entrega das atividades práticas desenvolvidas ao long
 
 ## Identificação
 - **Nome completo:** Ricardo Alves
-- **RGM:** [Insira o seu RGM aqui]
+- **RGM:** [47547472]
 
 ## Organização do Repositório
 Os códigos estão organizados por aula/atividade nas seguintes pastas:
